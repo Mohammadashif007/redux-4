@@ -1,0 +1,42 @@
+{
+  "accounts": [
+    {
+      "id": "3",
+      "amount": 300
+    },
+    {
+      "id": "cc0c",
+      "amount": 201
+    },
+    {
+      "id": "3601",
+      "amount": 201
+    },
+    {
+      "id": "4a2c",
+      "amount": 999
+    },
+    {
+      "id": "0b60",
+      "amount": 999
+    },
+    {
+      "id": "fb4d",
+      "amount": 999
+    },
+    {
+      "id": "3ac8",
+      "amount": 999
+    }
+  ],
+  "bonus": [
+    {
+      "id": "1",
+      "points": 2
+    },
+    {
+      "id": "1",
+      "points": 3
+    }
+  ]
+}
